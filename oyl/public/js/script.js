@@ -170,8 +170,8 @@ $(window).on("load", function() {
   var addressString =
     "Aratt - Divya Jyothi Apartments, 6th Cross Road, New Friends Colony, S T Bed Layout, Koramangala, Bengaluru, Karnataka";
   var myLatlng = {
-    lat: 12.93323,
-    lng: -77.61497
+    lat: 12.927923,
+    lng: 77.627106
   };
 
   // 1. Render map
